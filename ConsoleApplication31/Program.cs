@@ -9,9 +9,8 @@ namespace ConsoleApplication31
     {
         static void Main(string[] args)
         {
+            //removed the test method
         }
-        void Test()
-{
-}
+
     }
 }
